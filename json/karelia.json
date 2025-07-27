@@ -1,0 +1,1736 @@
+{
+    "catalogMenuItems": [
+        {
+            "id": 2285447,
+            "alias": "dla-smartfona",
+            "title": "\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u0430\u044f \u0441\u0432\u044f\u0437\u044c",
+            "seoTitle": "\u0422\u0430\u0440\u0438\u0444\u044b \u043d\u0430 \u041c\u043e\u0431\u0438\u043b\u044c\u043d\u0443\u044e \u0421\u0432\u044f\u0437\u044c \u043e\u0442 \u041c\u0422\u0421",
+            "sortOrder": 2,
+            "imageUrl": "\/\/static.mts.ru\/dpc_upload\/contents\/441\/ill_mobile.png",
+            "communicationKind": "mobile",
+            "isActive": true,
+            "openInNewTab": false,
+            "url": "\/dla-smartfona"
+        },
+        {
+            "id": 2285448,
+            "alias": "tarify_dlya_plansheta_i_kompyutera",
+            "title": "\u0414\u043b\u044f \u0447\u0430\u0441\u043e\u0432 \u0438 \u043c\u043e\u0434\u0435\u043c\u043e\u0432",
+            "seoTitle": "\u0422\u0430\u0440\u0438\u0444\u044b \u0434\u043b\u044f \u0421\u043c\u0430\u0440\u0442-\u0427\u0430\u0441\u043e\u0432 \u0438 \u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u041c\u043e\u0434\u0435\u043c\u043e\u0432 \u043e\u0442 \u041c\u0422\u0421",
+            "sortOrder": 20,
+            "imageUrl": "\/\/static.mts.ru\/dpc_upload\/contents\/441\/ill_smart_devices.png",
+            "communicationKind": "mobile",
+            "isActive": false,
+            "openInNewTab": false,
+            "url": "\/tarify_dlya_plansheta_i_kompyutera"
+        }
+    ],
+    "actualTariffs": [
+        {
+            "marketingId": 6333112,
+            "isPriorityProduct": true,
+            "categoryOrder": 2,
+            "allRegionalGlobalCodes": [
+                "21156.2.185243"
+            ],
+            "tariffType": "Mobile",
+            "useRequestConnectionForm": false,
+            "badges": [
+                {
+                    "id": 6431881,
+                    "title": "\u0424\u0438\u043b\u044c\u043c\u044b \u0438 \u0441\u0435\u0440\u0438\u0430\u043b\u044b KION",
+                    "sortOrder": 50,
+                    "backgroundColor": {
+                        "customColor": "#9C1F6A"
+                    },
+                    "textColor": {
+                        "designSystemColor": "--constant-greyscale-0"
+                    },
+                    "position": "Common",
+                    "onlyForNewSubscribers": false,
+                    "ignoreInProductCustomizationMode": false,
+                    "marketingProductIds": [
+                        5437508,
+                        5451754,
+                        5772002,
+                        6189010,
+                        6333112
+                    ],
+                    "hideInCard": false,
+                    "hideInBasket": false,
+                    "showSmartTooltipWithDiscountValues": false,
+                    "showSmartTooltipWithRestrictions": false,
+                    "showBulletedSmartTooltip": false,
+                    "hideWhenEmptyContent": false
+                }
+            ],
+            "productCharacteristics": [
+                {
+                    "id": 6461508,
+                    "value": "100 \u0413\u0411",
+                    "baseParameter": "InternetPackage"
+                },
+                {
+                    "id": 6465715,
+                    "value": "2000 \u043c\u0438\u043d\u0443\u0442",
+                    "baseParameter": "MinutesPackage"
+                }
+            ],
+            "productFeatures": [
+                {
+                    "id": 6465795,
+                    "value": "3 \u0434\u043d\u044f \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e\u0433\u043e \u0440\u043e\u0443\u043c\u0438\u043d\u0433\u0430",
+                    "baseParameter": "ProductFeature"
+                }
+            ],
+            "benefitsDescription": {
+                "description": "\u0411\u0435\u0437\u043b\u0438\u043c\u0438\u0442 \u043d\u0430 \u0441\u043e\u0446\u0441\u0435\u0442\u0438, \u043c\u0435\u0441\u0441\u0435\u043d\u0434\u0436\u0435\u0440\u044b \u0438 \u0432\u0438\u0434\u0435\u043e",
+                "lastItemAsMainBenefit": false
+            },
+            "isConnectButtonHidden": false,
+            "detailsPageUrl": "\/personal\/export\/mts-membrana",
+            "showTvChannelsListOnDetails": false,
+            "catalogFilterProperties": {
+                "internetPackageGb": 100,
+                "minutesPackage": 2000
+            },
+            "multipleFeesForConfigurationOnly": false,
+            "id": 6461284,
+            "alias": "mts-membrana",
+            "title": "Membrana",
+            "description": "\u0414\u043b\u044f \u0442\u0435\u0445, \u043a\u0442\u043e \u0443\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u0442 \u0441\u0432\u043e\u0438\u043c \u0432\u0440\u0435\u043c\u0435\u043d\u0435\u043c&nbsp;&mdash; \u043d\u0430\u0441\u0442\u0440\u0430\u0438\u0432\u0430\u0439\u0442\u0435 \u0440\u0435\u0436\u0438\u043c\u044b \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u043e\u0441\u0442\u0438 \u0438&nbsp;\u043e\u043a\u0440\u0443\u0436\u0435\u043d\u0438\u0435 \u0432&nbsp;\u0441\u0435\u0442\u0438",
+            "cardImageUrl": "\/\/static.mts.ru\/dpc_upload\/contents\/557\/membrana_cover.jpg",
+            "priority": 2,
+            "subscriptionFee": {
+                "title": "\u0410\u0431\u043e\u043d\u0435\u043d\u0442\u0441\u043a\u0430\u044f \u043f\u043b\u0430\u0442\u0430",
+                "value": "1900 \u20bd\/\u043c\u0435\u0441",
+                "numValue": 1900,
+                "displayUnit": "\u20bd\/\u043c\u0435\u0441",
+                "quotaUnit": "rub",
+                "quotaPeriod": "monthly",
+                "isUnlimited": false,
+                "numValueType": "Exact",
+                "sortOrder": 100,
+                "baseParameter": "SubscriptionFee"
+            },
+            "categoriesIds": [
+                2285447
+            ],
+            "detailsAlias": "mts-membrana",
+            "isActionButtonHidden": false,
+            "isDetailsButtonHidden": false,
+            "buttons": [
+                {
+                    "text": "\u041f\u043e\u0434\u043a\u043b\u044e\u0447\u0438\u0442\u044c",
+                    "isSecondary": false,
+                    "isDisabled": false,
+                    "isHidden": false,
+                    "buttonType": "Connect"
+                },
+                {
+                    "href": "\/personal\/export\/mts-membrana",
+                    "text": "\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u0435\u0435",
+                    "isSecondary": true,
+                    "isDisabled": false,
+                    "isHidden": false,
+                    "buttonType": "Details"
+                }
+            ],
+            "cardType": "Tariff"
+        },
+        {
+            "marketingId": 6440114,
+            "isPriorityProduct": true,
+            "categoryOrder": 2,
+            "allRegionalGlobalCodes": [
+                "21363.1.185243"
+            ],
+            "tariffType": "Mobile",
+            "customizingType": "InbuiltOptions",
+            "useRequestConnectionForm": false,
+            "badges": [
+                {
+                    "id": 6446464,
+                    "icon": "\/\/static.mts.ru\/dpc_upload\/contents\/610\/icon_badge_urent_24x24.svg",
+                    "title": "\u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u0441\u0442\u0430\u0440\u0442 \u043d\u0430 \u0441\u0430\u043c\u043e\u043a\u0430\u0442\u044b",
+                    "sortOrder": 30,
+                    "backgroundColor": {
+                        "customColor": "#A347FF"
+                    },
+                    "textColor": {
+                        "designSystemColor": "--constant-greyscale-0"
+                    },
+                    "position": "Common",
+                    "onlyForNewSubscribers": false,
+                    "ignoreInProductCustomizationMode": false,
+                    "marketingProductIds": [
+                        6440114
+                    ],
+                    "hideInCard": false,
+                    "hideInBasket": false,
+                    "showSmartTooltipWithDiscountValues": false,
+                    "showSmartTooltipWithRestrictions": false,
+                    "showBulletedSmartTooltip": false,
+                    "hideWhenEmptyContent": false
+                }
+            ],
+            "productCharacteristics": [
+                {
+                    "id": 6442873,
+                    "value": "50 \u0413\u0411",
+                    "baseParameter": "InternetPackage"
+                },
+                {
+                    "id": 6442830,
+                    "value": "50 \u043c\u0438\u043d\u0443\u0442",
+                    "baseParameter": "MinutesPackage"
+                }
+            ],
+            "productFeatures": [],
+            "benefitsDescription": {
+                "icons": [
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/bundle_item__telegram.svg",
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/ic_card_vk.svg",
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/bundle_item__rutube.svg",
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/ic_plus_3-1.svg"
+                ],
+                "description": "\u041f\u0435\u0440\u0435\u043d\u043e\u0441 \u0413\u0411, \u041c\u0422\u0421&nbsp;\u041c\u0443\u0437\u044b\u043a\u0430, \u041c\u0422\u0421&nbsp;\u042e\u0440\u0435\u043d\u0442, KION",
+                "lastItemAsMainBenefit": false
+            },
+            "applySettingsLink": {
+                "title": "\u041d\u0430\u0441\u0442\u0440\u043e\u0438\u0442\u044c",
+                "value": "\/personal\/export\/riil#bezlimity_na_servisy"
+            },
+            "isConnectButtonHidden": false,
+            "detailsPageUrl": "\/personal\/export\/riil",
+            "showTvChannelsListOnDetails": false,
+            "catalogFilterProperties": {
+                "internetPackageGb": 35,
+                "minutesPackage": 50
+            },
+            "multipleFeesForConfigurationOnly": false,
+            "id": 6442828,
+            "alias": "riil",
+            "title": "\u0420\u0418\u0418\u041b",
+            "description": "\u0418\u0434\u0435\u0430\u043b\u0435\u043d \u0434\u043b\u044f \u0430\u043a\u0442\u0438\u0432\u043d\u043e\u0439 \u0436\u0438\u0437\u043d\u0438",
+            "cardImageUrl": "\/\/static.mts.ru\/dpc_upload\/contents\/557\/real_cover.jpg",
+            "priority": 3,
+            "subscriptionFee": {
+                "title": "\u0415\u0436\u0435\u043c\u0435\u0441\u044f\u0447\u043d\u0430\u044f \u043f\u043b\u0430\u0442\u0430 \u043f\u0440\u0438 \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u0435 \u043d\u0430 \u0442\u0430\u0440\u0438\u0444 \u0438 \u043f\u0440\u0438 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0438 \u0434\u043e 15 \u0438\u044e\u043b\u044f 2025 \u0433\u043e\u0434\u0430",
+                "value": "680 \u20bd\/\u043c\u0435\u0441",
+                "numValue": 680,
+                "displayUnit": "\u20bd\/\u043c\u0435\u0441",
+                "quotaUnit": "rub",
+                "quotaPeriod": "monthly",
+                "isUnlimited": false,
+                "numValueType": "Exact",
+                "sortOrder": 100,
+                "baseParameter": "SubscriptionFee"
+            },
+            "categoriesIds": [
+                2285447
+            ],
+            "detailsAlias": "riil",
+            "isActionButtonHidden": false,
+            "isDetailsButtonHidden": false,
+            "buttons": [
+                {
+                    "text": "\u041f\u043e\u0434\u043a\u043b\u044e\u0447\u0438\u0442\u044c",
+                    "isSecondary": false,
+                    "isDisabled": false,
+                    "isHidden": false,
+                    "buttonType": "Connect"
+                },
+                {
+                    "href": "\/personal\/export\/riil",
+                    "text": "\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u0435\u0435",
+                    "isSecondary": true,
+                    "isDisabled": false,
+                    "isHidden": false,
+                    "buttonType": "Details"
+                }
+            ],
+            "cardType": "Tariff"
+        },
+        {
+            "marketingId": 5451754,
+            "isPriorityProduct": true,
+            "categoryOrder": 2,
+            "allRegionalGlobalCodes": [
+                "21206.6.185243"
+            ],
+            "tariffType": "Mobile",
+            "customizingType": "Configurator",
+            "configurableTariffSettings": {
+                "regulators": [
+                    {
+                        "id": 2234685,
+                        "sortOrder": 20,
+                        "quotaType": "Calls",
+                        "options": [
+                            {
+                                "optionId": 2251352,
+                                "label": "600 \u043c\u0438\u043d \u0438 600 SMS",
+                                "value": {
+                                    "title": "\u041f\u0430\u043a\u0435\u0442 \u043c\u0438\u043d\u0443\u0442",
+                                    "value": "600 \u043c\u0438\u043d.",
+                                    "numValue": 600,
+                                    "displayUnit": "\u043c\u0438\u043d.",
+                                    "quotaUnit": "min",
+                                    "isUnlimited": false,
+                                    "numValueType": "Exact",
+                                    "sortOrder": 10,
+                                    "baseParameter": "MinutesPackage"
+                                },
+                                "quotas": [
+                                    {
+                                        "title": "\u041f\u0430\u043a\u0435\u0442 \u043c\u0438\u043d\u0443\u0442",
+                                        "value": "600 \u043c\u0438\u043d.",
+                                        "numValue": 600,
+                                        "displayUnit": "\u043c\u0438\u043d.",
+                                        "quotaUnit": "min",
+                                        "isUnlimited": false,
+                                        "numValueType": "Exact",
+                                        "sortOrder": 10,
+                                        "baseParameter": "MinutesPackage"
+                                    },
+                                    {
+                                        "title": "\u041f\u0430\u043a\u0435\u0442 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0439",
+                                        "value": "600 SMS",
+                                        "numValue": 600,
+                                        "displayUnit": "SMS",
+                                        "quotaUnit": "sms",
+                                        "isUnlimited": false,
+                                        "numValueType": "Exact",
+                                        "sortOrder": 20,
+                                        "baseParameter": "MessagesPackage"
+                                    }
+                                ]
+                            },
+                            {
+                                "optionId": 5469674,
+                                "label": "850 \u043c\u0438\u043d \u0438 850 SMS",
+                                "value": {
+                                    "title": "\u041f\u0430\u043a\u0435\u0442 \u043c\u0438\u043d\u0443\u0442",
+                                    "value": "850 \u043c\u0438\u043d.",
+                                    "numValue": 850,
+                                    "displayUnit": "\u043c\u0438\u043d.",
+                                    "quotaUnit": "min",
+                                    "isUnlimited": false,
+                                    "numValueType": "Exact",
+                                    "baseParameter": "MinutesPackage"
+                                },
+                                "quotas": [
+                                    {
+                                        "title": "\u041f\u0430\u043a\u0435\u0442 \u043c\u0438\u043d\u0443\u0442",
+                                        "value": "850 \u043c\u0438\u043d.",
+                                        "numValue": 850,
+                                        "displayUnit": "\u043c\u0438\u043d.",
+                                        "quotaUnit": "min",
+                                        "isUnlimited": false,
+                                        "numValueType": "Exact",
+                                        "baseParameter": "MinutesPackage"
+                                    },
+                                    {
+                                        "title": "\u041f\u0430\u043a\u0435\u0442 SMS",
+                                        "value": "850 SMS",
+                                        "numValue": 850,
+                                        "displayUnit": "SMS",
+                                        "quotaUnit": "sms",
+                                        "isUnlimited": false,
+                                        "numValueType": "Exact",
+                                        "baseParameter": "MessagesPackage"
+                                    }
+                                ],
+                                "globalCode": "PENTP250.1"
+                            },
+                            {
+                                "optionId": 5469685,
+                                "label": "1100 \u043c\u0438\u043d \u0438 1100 SMS",
+                                "value": {
+                                    "title": "\u041f\u0430\u043a\u0435\u0442 \u043c\u0438\u043d\u0443\u0442",
+                                    "value": "1100 \u043c\u0438\u043d.",
+                                    "numValue": 1100,
+                                    "displayUnit": "\u043c\u0438\u043d.",
+                                    "quotaUnit": "min",
+                                    "isUnlimited": false,
+                                    "numValueType": "Exact",
+                                    "baseParameter": "MinutesPackage"
+                                },
+                                "quotas": [
+                                    {
+                                        "title": "\u041f\u0430\u043a\u0435\u0442 \u043c\u0438\u043d\u0443\u0442",
+                                        "value": "1100 \u043c\u0438\u043d.",
+                                        "numValue": 1100,
+                                        "displayUnit": "\u043c\u0438\u043d.",
+                                        "quotaUnit": "min",
+                                        "isUnlimited": false,
+                                        "numValueType": "Exact",
+                                        "baseParameter": "MinutesPackage"
+                                    },
+                                    {
+                                        "title": "\u041f\u0430\u043a\u0435\u0442 SMS",
+                                        "value": "1100 SMS",
+                                        "numValue": 1100,
+                                        "displayUnit": "SMS",
+                                        "quotaUnit": "sms",
+                                        "isUnlimited": false,
+                                        "numValueType": "Exact",
+                                        "baseParameter": "MessagesPackage"
+                                    }
+                                ],
+                                "globalCode": "PENTP500.1"
+                            },
+                            {
+                                "optionId": 5469695,
+                                "label": "1600 \u043c\u0438\u043d \u0438 1600 SMS",
+                                "value": {
+                                    "title": "\u041f\u0430\u043a\u0435\u0442 \u043c\u0438\u043d\u0443\u0442",
+                                    "value": "1600 \u043c\u0438\u043d.",
+                                    "numValue": 1600,
+                                    "displayUnit": "\u043c\u0438\u043d.",
+                                    "quotaUnit": "min",
+                                    "isUnlimited": false,
+                                    "numValueType": "Exact",
+                                    "baseParameter": "MinutesPackage"
+                                },
+                                "quotas": [
+                                    {
+                                        "title": "\u041f\u0430\u043a\u0435\u0442 \u043c\u0438\u043d\u0443\u0442",
+                                        "value": "1600 \u043c\u0438\u043d.",
+                                        "numValue": 1600,
+                                        "displayUnit": "\u043c\u0438\u043d.",
+                                        "quotaUnit": "min",
+                                        "isUnlimited": false,
+                                        "numValueType": "Exact",
+                                        "baseParameter": "MinutesPackage"
+                                    },
+                                    {
+                                        "title": "\u041f\u0430\u043a\u0435\u0442 SMS",
+                                        "value": "1600 SMS",
+                                        "numValue": 1600,
+                                        "displayUnit": "SMS",
+                                        "quotaUnit": "sms",
+                                        "isUnlimited": false,
+                                        "numValueType": "Exact",
+                                        "baseParameter": "MessagesPackage"
+                                    }
+                                ],
+                                "globalCode": "PENTP10002.1"
+                            }
+                        ]
+                    }
+                ],
+                "packages": [
+                    {
+                        "id": 5456325,
+                        "isDefault": true,
+                        "isDefaultForAuthorized": false,
+                        "subscriptionFee": {
+                            "title": "\u041f\u043b\u0430\u0442\u0430 \u043f\u043e \u0442\u0430\u0440\u0438\u0444\u0443",
+                            "value": "750 \u20bd\/\u043c\u0435\u0441",
+                            "numValue": 750,
+                            "displayUnit": "\u20bd\/\u043c\u0435\u0441",
+                            "quotaUnit": "rub",
+                            "quotaPeriod": "monthly",
+                            "isUnlimited": false,
+                            "numValueType": "Exact",
+                            "sortOrder": 10,
+                            "baseParameter": "SubscriptionFee"
+                        },
+                        "regulatorsOptionsIds": [
+                            2251352
+                        ],
+                        "isMinimalPackage": false
+                    },
+                    {
+                        "id": 5456332,
+                        "isDefault": false,
+                        "isDefaultForAuthorized": false,
+                        "subscriptionFee": {
+                            "title": "\u041f\u043b\u0430\u0442\u0430 \u043f\u043e \u0442\u0430\u0440\u0438\u0444\u0443",
+                            "value": "900 \u20bd\/\u043c\u0435\u0441",
+                            "numValue": 900,
+                            "displayUnit": "\u20bd\/\u043c\u0435\u0441",
+                            "quotaUnit": "rub",
+                            "quotaPeriod": "monthly",
+                            "isUnlimited": false,
+                            "numValueType": "Exact",
+                            "sortOrder": 10,
+                            "baseParameter": "SubscriptionFee"
+                        },
+                        "regulatorsOptionsIds": [
+                            5469674
+                        ],
+                        "isMinimalPackage": false
+                    },
+                    {
+                        "id": 5456339,
+                        "isDefault": false,
+                        "isDefaultForAuthorized": false,
+                        "subscriptionFee": {
+                            "title": "\u041f\u043b\u0430\u0442\u0430 \u043f\u043e \u0442\u0430\u0440\u0438\u0444\u0443",
+                            "value": "1050 \u20bd\/\u043c\u0435\u0441",
+                            "numValue": 1050,
+                            "displayUnit": "\u20bd\/\u043c\u0435\u0441",
+                            "quotaUnit": "rub",
+                            "quotaPeriod": "monthly",
+                            "isUnlimited": false,
+                            "numValueType": "Exact",
+                            "sortOrder": 10,
+                            "baseParameter": "SubscriptionFee"
+                        },
+                        "regulatorsOptionsIds": [
+                            5469685
+                        ],
+                        "isMinimalPackage": false
+                    },
+                    {
+                        "id": 5456346,
+                        "isDefault": false,
+                        "isDefaultForAuthorized": false,
+                        "subscriptionFee": {
+                            "title": "\u041f\u043b\u0430\u0442\u0430 \u043f\u043e \u0442\u0430\u0440\u0438\u0444\u0443",
+                            "value": "1300 \u20bd\/\u043c\u0435\u0441",
+                            "numValue": 1300,
+                            "displayUnit": "\u20bd\/\u043c\u0435\u0441",
+                            "quotaUnit": "rub",
+                            "quotaPeriod": "monthly",
+                            "isUnlimited": false,
+                            "numValueType": "Exact",
+                            "sortOrder": 10,
+                            "baseParameter": "SubscriptionFee"
+                        },
+                        "regulatorsOptionsIds": [
+                            5469695
+                        ],
+                        "isMinimalPackage": false
+                    }
+                ],
+                "discounts": []
+            },
+            "useRequestConnectionForm": false,
+            "badges": [
+                {
+                    "id": 6352013,
+                    "title": "\u0414\u0432\u043e\u0439\u043d\u0430\u044f \u0432\u044b\u0433\u043e\u0434\u0430 \u0441 \u041c\u0422\u0421 \u0414\u0435\u043d\u044c\u0433\u0438",
+                    "sortOrder": 20,
+                    "backgroundColor": {
+                        "customColor": "#007cff"
+                    },
+                    "textColor": {
+                        "designSystemColor": "--constant-greyscale-0"
+                    },
+                    "position": "Common",
+                    "onlyForNewSubscribers": false,
+                    "ignoreInProductCustomizationMode": false,
+                    "marketingProductIds": [
+                        5451754
+                    ],
+                    "hideInCard": false,
+                    "hideInBasket": false,
+                    "showSmartTooltipWithDiscountValues": false,
+                    "showSmartTooltipWithRestrictions": false,
+                    "showBulletedSmartTooltip": false,
+                    "hideWhenEmptyContent": false
+                },
+                {
+                    "id": 6431881,
+                    "title": "\u0424\u0438\u043b\u044c\u043c\u044b \u0438 \u0441\u0435\u0440\u0438\u0430\u043b\u044b KION",
+                    "sortOrder": 50,
+                    "backgroundColor": {
+                        "customColor": "#9C1F6A"
+                    },
+                    "textColor": {
+                        "designSystemColor": "--constant-greyscale-0"
+                    },
+                    "position": "Common",
+                    "onlyForNewSubscribers": false,
+                    "ignoreInProductCustomizationMode": false,
+                    "marketingProductIds": [
+                        5437508,
+                        5451754,
+                        5772002,
+                        6189010,
+                        6333112
+                    ],
+                    "hideInCard": false,
+                    "hideInBasket": false,
+                    "showSmartTooltipWithDiscountValues": false,
+                    "showSmartTooltipWithRestrictions": false,
+                    "showBulletedSmartTooltip": false,
+                    "hideWhenEmptyContent": false
+                }
+            ],
+            "productCharacteristics": [
+                {
+                    "id": 5456251,
+                    "value": "30 \u0413\u0411",
+                    "baseParameter": "InternetPackage"
+                }
+            ],
+            "productFeatures": [],
+            "benefitsDescription": {
+                "icons": [
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/x2G_32x32.svg",
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/Bezlimit_32x32.svg",
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/ic_card_kion.svg",
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/icon_4g.svg",
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/icon_card_2.svg"
+                ],
+                "description": "\u0410\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0439\u0442\u0435 \u043d\u043e\u0432\u044b\u0435 \u043a\u0443\u0431\u0438\u043a\u0438, \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u0430\u044f \u0441\u0432\u044f\u0437\u044c \u0441&nbsp;\u043a\u0430\u0440\u0442\u043e\u0439 \u041c\u0422\u0421&nbsp;\u0414\u0435\u043d\u044c\u0433\u0438",
+                "lastItemAsMainBenefit": false
+            },
+            "isConnectButtonHidden": false,
+            "detailsPageUrl": "\/personal\/export\/mts_bolshhe",
+            "showTvChannelsListOnDetails": false,
+            "catalogFilterProperties": {
+                "productFeatures": [
+                    "GroupForClosest",
+                    "BestIntercityCallsOffer"
+                ],
+                "internetPackageGb": 30,
+                "minutesPackageRange": {
+                    "from": 600,
+                    "to": 1600
+                }
+            },
+            "multipleFeesForConfigurationOnly": false,
+            "id": 5456209,
+            "alias": "mts_bolshhe",
+            "title": "\u041c\u0422\u0421 \u0411\u043e\u043b\u044c\u0448\u0435",
+            "description": "\u041e\u043f\u0442\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439 \u0442\u0430\u0440\u0438\u0444 \u0441&nbsp;\u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u043e\u0439 \u043c\u0438\u043d\u0443\u0442 \u0438&nbsp;SMS",
+            "cardImageUrl": "\/\/static.mts.ru\/dpc_upload\/contents\/557\/mts_bolshhe_new_catalog_131123_424_100.jpg",
+            "priority": 10,
+            "categoriesIds": [
+                2285447
+            ],
+            "detailsAlias": "mts_bolshhe",
+            "isActionButtonHidden": false,
+            "isDetailsButtonHidden": false,
+            "buttons": [
+                {
+                    "text": "\u041f\u043e\u0434\u043a\u043b\u044e\u0447\u0438\u0442\u044c",
+                    "isSecondary": false,
+                    "isDisabled": false,
+                    "isHidden": false,
+                    "buttonType": "Connect"
+                },
+                {
+                    "href": "\/personal\/export\/mts_bolshhe",
+                    "text": "\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u0435\u0435",
+                    "isSecondary": true,
+                    "isDisabled": false,
+                    "isHidden": false,
+                    "buttonType": "Details"
+                }
+            ],
+            "cardType": "Tariff"
+        },
+        {
+            "marketingId": 6518747,
+            "isPriorityProduct": true,
+            "categoryOrder": 2,
+            "allRegionalGlobalCodes": [],
+            "tariffType": "Mobile",
+            "discounts": [
+                {
+                    "id": 6517497,
+                    "discountSize": 0.4,
+                    "discountSizeNote": "\u0427\u0442\u043e\u0431\u044b \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u0442\u0430\u0440\u0438\u0444\u043e\u043c \u0441\u043e&nbsp;\u0441\u043a\u0438\u0434\u043a\u043e\u0439 \u0441\u043e&nbsp;\u0432\u0442\u043e\u0440\u043e\u0433\u043e \u043c\u0435\u0441\u044f\u0446\u0430, \u043d\u0443\u0436\u043d\u043e \u0441\u043e\u0441\u0442\u043e\u044f\u0442\u044c \u0432&nbsp;\u0441\u0435\u043c\u0435\u0439\u043d\u043e\u0439 \u0433\u0440\u0443\u043f\u043f\u0435 \u0441&nbsp;\u0440\u043e\u043b\u044c\u044e \u0440\u0435\u0431\u0451\u043d\u043a\u0430",
+                    "isActual": true,
+                    "packageBasedApplying": "AllPackages"
+                }
+            ],
+            "useRequestConnectionForm": false,
+            "badges": [
+                {
+                    "id": 6516576,
+                    "title": "\u0421\u043a\u0438\u0434\u043a\u0430 \u0434\u0435\u0442\u044f\u043c",
+                    "backgroundColor": {
+                        "customColor": "#007cff"
+                    },
+                    "textColor": {
+                        "designSystemColor": "--constant-greyscale-0"
+                    },
+                    "position": "Common",
+                    "onlyForNewSubscribers": false,
+                    "ignoreInProductCustomizationMode": false,
+                    "marketingProductIds": [
+                        6516200,
+                        6518747
+                    ],
+                    "hideInCard": false,
+                    "hideInBasket": false,
+                    "showSmartTooltipWithDiscountValues": false,
+                    "showSmartTooltipWithRestrictions": false,
+                    "showBulletedSmartTooltip": false,
+                    "hideWhenEmptyContent": false
+                }
+            ],
+            "productCharacteristics": [],
+            "productFeatures": [
+                {
+                    "id": 6519728,
+                    "value": "\u0434\u043e&nbsp;35&nbsp;\u0413\u0411, 250 \u043c\u0438\u043d \u0438&nbsp;30&nbsp;SMS",
+                    "baseParameter": "ProductFeature"
+                }
+            ],
+            "benefitsDescription": {
+                "icons": [
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/ic_card_kion.svg",
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/ic_card_telegram.svg",
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/semeynaya_header_icon.svg",
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/ic_card_whatsapp.svg",
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/icon_more.svg"
+                ],
+                "description": "\u0411\u0435\u0437\u043b\u0438\u043c\u0438\u0442 \u043d\u0430 \u0441\u043e\u0446\u0441\u0435\u0442\u0438, \u043c\u0435\u0441\u0441\u0435\u043d\u0434\u0436\u0435\u0440\u044b, KION",
+                "lastItemAsMainBenefit": false
+            },
+            "connectButtonLink": {
+                "title": "\u041f\u043e\u0434\u043a\u043b\u044e\u0447\u0438\u0442\u044c",
+                "value": "\/personal\/mobilnaya-svyaz\/uslugi\/mobilnaya-svyaz\/mts-junior"
+            },
+            "isConnectButtonHidden": false,
+            "detailsPageUrl": "\/personal\/export\/mts-junior-catalog",
+            "showTvChannelsListOnDetails": false,
+            "catalogFilterProperties": {},
+            "multipleFeesForConfigurationOnly": false,
+            "id": 6519101,
+            "alias": "mts-junior-catalog",
+            "title": "\u041c\u0422\u0421 Junior",
+            "description": "\u0422\u0430\u0440\u0438\u0444\u044b, \u0441\u043e\u0437\u0434\u0430\u043d\u043d\u044b\u0435 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u043e \u0434\u043b\u044f \u0434\u0435\u0442\u0435\u0439",
+            "cardImageUrl": "\/\/static.mts.ru\/dpc_upload\/contents\/557\/children_cover.jpg",
+            "priority": 13,
+            "subscriptionFee": {
+                "title": "\u0410\u0431\u043e\u043d\u0435\u043d\u0442\u0441\u043a\u0430\u044f \u043f\u043b\u0430\u0442\u0430",
+                "value": "600 \u20bd\/\u043c\u0435\u0441",
+                "numValue": 600,
+                "displayUnit": "\u20bd\/\u043c\u0435\u0441",
+                "quotaUnit": "rub",
+                "quotaPeriod": "monthly",
+                "isUnlimited": false,
+                "numValueType": "Exact",
+                "sortOrder": 100,
+                "baseParameter": "SubscriptionFee"
+            },
+            "discountFee": {
+                "numValue": 360,
+                "displayUnit": "\u20bd\/\u043c\u0435\u0441",
+                "quotaUnit": "rub",
+                "quotaPeriod": "monthly",
+                "numValueType": 0
+            },
+            "categoriesIds": [
+                2285447
+            ],
+            "detailsAlias": "mts-junior-catalog",
+            "isActionButtonHidden": false,
+            "isDetailsButtonHidden": true,
+            "buttons": [
+                {
+                    "href": "\/personal\/mobilnaya-svyaz\/uslugi\/mobilnaya-svyaz\/mts-junior",
+                    "text": "\u041f\u043e\u0434\u043a\u043b\u044e\u0447\u0438\u0442\u044c",
+                    "isSecondary": false,
+                    "isDisabled": false,
+                    "isHidden": false,
+                    "buttonType": "Connect"
+                }
+            ],
+            "cardType": "Tariff"
+        },
+        {
+            "marketingId": 5437508,
+            "isPriorityProduct": true,
+            "categoryOrder": 2,
+            "allRegionalGlobalCodes": [
+                "21207.5.185243"
+            ],
+            "tariffType": "Mobile",
+            "useRequestConnectionForm": false,
+            "badges": [
+                {
+                    "id": 5715322,
+                    "title": "\u041a\u0443\u0431\u0438\u043a\u0438 \u0443\u0436\u0435 \u0432 \u0442\u0430\u0440\u0438\u0444\u0435",
+                    "sortOrder": 20,
+                    "backgroundColor": {
+                        "customColor": "#007cff"
+                    },
+                    "textColor": {
+                        "designSystemColor": "--constant-greyscale-0"
+                    },
+                    "position": "Common",
+                    "onlyForNewSubscribers": false,
+                    "ignoreInProductCustomizationMode": false,
+                    "marketingProductIds": [
+                        5437508
+                    ],
+                    "hideInCard": false,
+                    "hideInBasket": false,
+                    "showSmartTooltipWithDiscountValues": false,
+                    "showSmartTooltipWithRestrictions": false,
+                    "showBulletedSmartTooltip": false,
+                    "hideWhenEmptyContent": false
+                },
+                {
+                    "id": 6431881,
+                    "title": "\u0424\u0438\u043b\u044c\u043c\u044b \u0438 \u0441\u0435\u0440\u0438\u0430\u043b\u044b KION",
+                    "sortOrder": 50,
+                    "backgroundColor": {
+                        "customColor": "#9C1F6A"
+                    },
+                    "textColor": {
+                        "designSystemColor": "--constant-greyscale-0"
+                    },
+                    "position": "Common",
+                    "onlyForNewSubscribers": false,
+                    "ignoreInProductCustomizationMode": false,
+                    "marketingProductIds": [
+                        5437508,
+                        5451754,
+                        5772002,
+                        6189010,
+                        6333112
+                    ],
+                    "hideInCard": false,
+                    "hideInBasket": false,
+                    "showSmartTooltipWithDiscountValues": false,
+                    "showSmartTooltipWithRestrictions": false,
+                    "showBulletedSmartTooltip": false,
+                    "hideWhenEmptyContent": false
+                }
+            ],
+            "productCharacteristics": [],
+            "productFeatures": [
+                {
+                    "id": 5437524,
+                    "value": "\u0412\u0441\u0451 \u0432\u043a\u043b\u044e\u0447\u0435\u043d\u043e",
+                    "iconUrl": "\/\/static.mts.ru\/dpc_upload\/contents\/424\/icon_card_gb.svg",
+                    "baseParameter": "ProductFeature"
+                }
+            ],
+            "benefitsDescription": {
+                "icons": [
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/Bezlimit_32x32.svg",
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/ic_card_kion.svg",
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/icon_4g.svg",
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/ic_card_zashchitnik.svg",
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/icon_card_3.svg"
+                ],
+                "description": "\u041a\u0443\u0431\u0438\u043a\u0438 \u0443\u0436\u0435 \u0432\u043a\u043b\u044e\u0447\u0435\u043d\u044b",
+                "lastItemAsMainBenefit": false
+            },
+            "isConnectButtonHidden": false,
+            "detailsPageUrl": "\/personal\/export\/mts_super",
+            "showTvChannelsListOnDetails": false,
+            "catalogFilterProperties": {
+                "productFeatures": [
+                    "GroupForClosest",
+                    "BestIntercityCallsOffer"
+                ],
+                "internetPackageGb": 50,
+                "minutesPackage": 1200
+            },
+            "multipleFeesForConfigurationOnly": false,
+            "id": 5440483,
+            "alias": "mts_super",
+            "title": "\u041c\u0422\u0421 \u0421\u0443\u043f\u0435\u0440",
+            "description": "\u041e\u0431\u0449\u0430\u0439\u0442\u0435\u0441\u044c \u0441\u0432\u043e\u0431\u043e\u0434\u043d\u043e, \u043d\u0435&nbsp;\u0441\u0447\u0438\u0442\u0430\u044f \u043c\u0438\u043d\u0443\u0442\u044b \u0438&nbsp;\u0433\u0438\u0433\u0430\u0431\u0430\u0439\u0442\u044b",
+            "cardImageUrl": "\/\/static.mts.ru\/dpc_upload\/contents\/557\/catalog_card_mts_super_848\u0445200.jpg",
+            "priority": 15,
+            "subscriptionFee": {
+                "title": "\u0410\u0431\u043e\u043d\u0435\u043d\u0442\u0441\u043a\u0430\u044f \u043f\u043b\u0430\u0442\u0430",
+                "value": "890 \u20bd\/\u043c\u0435\u0441",
+                "numValue": 890,
+                "displayUnit": "\u20bd\/\u043c\u0435\u0441",
+                "quotaUnit": "rub",
+                "quotaPeriod": "monthly",
+                "isUnlimited": false,
+                "numValueType": "Exact",
+                "sortOrder": 400,
+                "baseParameter": "SubscriptionFee"
+            },
+            "categoriesIds": [
+                2285447
+            ],
+            "detailsAlias": "mts_super",
+            "isActionButtonHidden": false,
+            "isDetailsButtonHidden": false,
+            "buttons": [
+                {
+                    "text": "\u041f\u043e\u0434\u043a\u043b\u044e\u0447\u0438\u0442\u044c",
+                    "isSecondary": false,
+                    "isDisabled": false,
+                    "isHidden": false,
+                    "buttonType": "Connect"
+                },
+                {
+                    "href": "\/personal\/export\/mts_super",
+                    "text": "\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u0435\u0435",
+                    "isSecondary": true,
+                    "isDisabled": false,
+                    "isHidden": false,
+                    "buttonType": "Details"
+                }
+            ],
+            "cardType": "Tariff"
+        },
+        {
+            "marketingId": 6026602,
+            "isPriorityProduct": true,
+            "categoryOrder": 2,
+            "allRegionalGlobalCodes": [],
+            "tariffType": "Mobile",
+            "customizingType": "Parametrized",
+            "parametrizedTariffSettings": {
+                "availablePresetsCodes": [
+                    "PEUDTPMTCH.1",
+                    "PEUDTPDET.1"
+                ],
+                "formulaType": "ParametrizedV2",
+                "formulaCoefficients": {
+                    "useForInternetPackage": 0.52,
+                    "useForMessagesPackage": 0.2,
+                    "additional": 509,
+                    "useForMinutesPackage": 0.2,
+                    "regional": 1,
+                    "internetPackagePower": 1.51
+                },
+                "defaultPackagePrice": 630,
+                "parametrizedOptions": [
+                    {
+                        "id": 5067481,
+                        "globalCode": "PEETPSMS.1",
+                        "rangeSettings": {
+                            "defaultValue": 50,
+                            "minValue": 50,
+                            "maxValue": 200,
+                            "rangePoints": [],
+                            "isValid": true
+                        },
+                        "serviceType": "Sms",
+                        "sortOrder": 100,
+                        "hideInCard": false
+                    },
+                    {
+                        "id": 5067501,
+                        "globalCode": "PEETPGB.1",
+                        "rangeSettings": {
+                            "defaultValue": 15,
+                            "defaultValueForAuthorized": 20,
+                            "minValue": 5,
+                            "maxValue": 50,
+                            "step": 1,
+                            "rangePoints": [],
+                            "isValid": true
+                        },
+                        "serviceType": "Internet",
+                        "sortOrder": 10,
+                        "hideInCard": false
+                    },
+                    {
+                        "id": 5067490,
+                        "globalCode": "PEETPMIN.1",
+                        "rangeSettings": {
+                            "defaultValue": 450,
+                            "defaultValueForAuthorized": 470,
+                            "minValue": 200,
+                            "maxValue": 2000,
+                            "step": 1,
+                            "rangePoints": [],
+                            "isValid": true
+                        },
+                        "serviceType": "Calls",
+                        "sortOrder": 20,
+                        "hideInCard": false
+                    }
+                ],
+                "options": [
+                    {
+                        "id": 6018498,
+                        "title": "\u041c\u0435\u0441\u0441\u0435\u043d\u0434\u0436\u0435\u0440\u044b. \u0411\u0435\u0437\u043b\u0438\u043c\u0438\u0442!",
+                        "globalCode": "PEETPUNME.1",
+                        "isDefault": false
+                    },
+                    {
+                        "id": 6047535,
+                        "title": "\u0421\u043e\u0446\u0441\u0435\u0442\u0438. \u0411\u0435\u0437\u043b\u0438\u043c\u0438\u0442!",
+                        "globalCode": "PEETPUNSS.1",
+                        "isDefault": false
+                    },
+                    {
+                        "id": 6047550,
+                        "title": "\u0417\u0432\u043e\u043d\u043a\u0438 \u043d\u0430 \u041c\u0422\u0421. \u0411\u0435\u0437\u043b\u0438\u043c\u0438\u0442!",
+                        "globalCode": "PEETPUNZV.1",
+                        "isDefault": false
+                    },
+                    {
+                        "id": 6019144,
+                        "title": "\u0412\u0438\u0434\u0435\u043e. \u0411\u0435\u0437\u043b\u0438\u043c\u0438\u0442!",
+                        "globalCode": "PEETPUNRZ.1",
+                        "isDefault": false
+                    },
+                    {
+                        "id": 6132961,
+                        "title": "\u041f\u0435\u0440\u0435\u043d\u043e\u0441 \u043e\u0441\u0442\u0430\u0442\u043a\u0430 \u0413\u0411!",
+                        "globalCode": "PEETPOST.1",
+                        "isDefault": false
+                    },
+                    {
+                        "id": 6340464,
+                        "title": "\u041e\u043d\u043b\u0430\u0439\u043d-\u043a\u0438\u043d\u043e\u0442\u0435\u0430\u0442\u0440\u044b!",
+                        "globalCode": "PEETPOKINO.1",
+                        "isDefault": false
+                    },
+                    {
+                        "id": 6340460,
+                        "title": "\u041c\u0430\u0440\u043a\u0435\u0442\u043f\u043b\u0435\u0439\u0441\u044b!",
+                        "globalCode": "PEETPMARKT.1",
+                        "isDefault": false
+                    }
+                ]
+            },
+            "useRequestConnectionForm": false,
+            "badges": [],
+            "productCharacteristics": [],
+            "productFeatures": [],
+            "benefitsDescription": {
+                "icons": [
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/Bezlimit_32x32.svg",
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/icon_perenos.svg",
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/ic_card_kion.svg",
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/icon_4g.svg",
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/icon_card_2.svg"
+                ],
+                "description": "\u0410\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0439\u0442\u0435 \u043d\u043e\u0432\u044b\u0435 \u043a\u0443\u0431\u0438\u043a\u0438",
+                "lastItemAsMainBenefit": false
+            },
+            "connectButtonLink": {
+                "title": "\u041f\u043e\u0434\u043a\u043b\u044e\u0447\u0438\u0442\u044c",
+                "value": "mymts:\/\/action\/screen?screen_id=f7507100-e7f7-eade-e445-09294099902c&tariff=mts-kak-hochesh&global_code=c1b63c51-f070-440a-901f-5c8e3d4a5079",
+                "appendSlaveId": true
+            },
+            "applySettingsLink": {
+                "title": "\u041d\u0430\u0441\u0442\u0440\u043e\u0438\u0442\u044c",
+                "value": "https:\/\/personal.ep.mts.ru\/router\/route?hideservices=1&mymts_brws=webview&brws=webview&fromApp&utm_source=mymts&orderPaymentFailedBehavior=CANCEL_ORDER&specificationid=c1b63c51-f070-440a-901f-5c8e3d4a5079&channelid=eb8c718e-467c-4fa3-9bf7-71ae20dfcfa1",
+                "appendSlaveId": true
+            },
+            "isConnectButtonHidden": false,
+            "detailsPageUrl": "\/personal\/export\/mts-kak-hochesh",
+            "showTvChannelsListOnDetails": false,
+            "catalogFilterProperties": {
+                "internetPackageRangeGb": {
+                    "from": 5,
+                    "to": 50
+                },
+                "minutesPackageRange": {
+                    "from": 200,
+                    "to": 2000
+                }
+            },
+            "multipleFeesForConfigurationOnly": false,
+            "id": 6177711,
+            "alias": "mts-kak-hochesh",
+            "title": "\u041c\u0422\u0421 \u041a\u0430\u043a \u0445\u043e\u0447\u0435\u0448\u044c!",
+            "description": "\u0421\u0432\u044f\u0437\u044c, \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u0438&nbsp;\u0441\u0435\u0440\u0432\u0438\u0441\u044b \u044d\u043a\u043e\u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0432&nbsp;\u043e\u0434\u043d\u043e\u043c \u0442\u0430\u0440\u0438\u0444\u0435",
+            "cardImageUrl": "\/\/static.mts.ru\/dpc_upload\/contents\/557\/catalog_card_kak_khochesh_848\u0445200.jpg",
+            "priority": 20,
+            "categoriesIds": [
+                2285447
+            ],
+            "detailsAlias": "mts-kak-hochesh",
+            "isActionButtonHidden": false,
+            "isDetailsButtonHidden": false,
+            "productInfoLink": {
+                "title": "\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u0435\u0435",
+                "value": "mymts:\/\/action\/screen?screen_id=f7507100-e7f7-eade-e445-09294099902c&tariff=mts-kak-hochesh&global_code=c1b63c51-f070-440a-901f-5c8e3d4a5079",
+                "appendSlaveId": true
+            },
+            "buttons": [
+                {
+                    "href": "mymts:\/\/action\/screen?screen_id=f7507100-e7f7-eade-e445-09294099902c&tariff=mts-kak-hochesh&global_code=c1b63c51-f070-440a-901f-5c8e3d4a5079",
+                    "text": "\u041f\u043e\u0434\u043a\u043b\u044e\u0447\u0438\u0442\u044c",
+                    "isSecondary": false,
+                    "isDisabled": false,
+                    "isHidden": false,
+                    "buttonType": "Connect"
+                },
+                {
+                    "href": "mymts:\/\/action\/screen?screen_id=f7507100-e7f7-eade-e445-09294099902c&tariff=mts-kak-hochesh&global_code=c1b63c51-f070-440a-901f-5c8e3d4a5079",
+                    "text": "\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u0435\u0435",
+                    "isSecondary": true,
+                    "isDisabled": false,
+                    "isHidden": false,
+                    "buttonType": "Details"
+                }
+            ],
+            "cardType": "Tariff"
+        },
+        {
+            "marketingId": 6189010,
+            "isPriorityProduct": true,
+            "categoryOrder": 2,
+            "allRegionalGlobalCodes": [],
+            "tariffType": "Mobile",
+            "customizingType": "InbuiltOptions",
+            "useRequestConnectionForm": false,
+            "badges": [
+                {
+                    "id": 6431881,
+                    "title": "\u0424\u0438\u043b\u044c\u043c\u044b \u0438 \u0441\u0435\u0440\u0438\u0430\u043b\u044b KION",
+                    "sortOrder": 50,
+                    "backgroundColor": {
+                        "customColor": "#9C1F6A"
+                    },
+                    "textColor": {
+                        "designSystemColor": "--constant-greyscale-0"
+                    },
+                    "position": "Common",
+                    "onlyForNewSubscribers": false,
+                    "ignoreInProductCustomizationMode": false,
+                    "marketingProductIds": [
+                        5437508,
+                        5451754,
+                        5772002,
+                        6189010,
+                        6333112
+                    ],
+                    "hideInCard": false,
+                    "hideInBasket": false,
+                    "showSmartTooltipWithDiscountValues": false,
+                    "showSmartTooltipWithRestrictions": false,
+                    "showBulletedSmartTooltip": false,
+                    "hideWhenEmptyContent": false
+                }
+            ],
+            "productCharacteristics": [
+                {
+                    "id": 6195954,
+                    "value": "6 \u0413\u0411",
+                    "baseParameter": "InternetPackage"
+                },
+                {
+                    "id": 6195955,
+                    "value": "300 \u043c\u0438\u043d\u0443\u0442",
+                    "baseParameter": "MinutesPackage"
+                }
+            ],
+            "productFeatures": [],
+            "benefitsDescription": {
+                "icons": [
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/Bezlimit_32x32.svg",
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/ic_card_kion.svg",
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/icon_4g.svg",
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/ic_card_zashchitnik.svg",
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/icon_card_3.svg"
+                ],
+                "description": "\u0410\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0439\u0442\u0435 \u043d\u043e\u0432\u044b\u0435 \u043a\u0443\u0431\u0438\u043a\u0438",
+                "lastItemAsMainBenefit": false
+            },
+            "connectButtonLink": {
+                "title": "\u041f\u043e\u0434\u043a\u043b\u044e\u0447\u0438\u0442\u044c",
+                "value": "mymts:\/\/action\/screen?screen_id=f7507100-e7f7-eade-e445-09294099902c&tariff=mts-proshche&global_code=49b8670d-0fdf-42d5-a510-a770368dde42",
+                "appendSlaveId": true
+            },
+            "applySettingsLink": {
+                "title": "\u041d\u0430\u0441\u0442\u0440\u043e\u0438\u0442\u044c",
+                "value": "https:\/\/personal.ep.mts.ru\/router\/route?hideservices=1&mymts_brws=webview&brws=webview&fromApp&utm_source=mymts&orderPaymentFailedBehavior=CANCEL_ORDER&specificationid=49b8670d-0fdf-42d5-a510-a770368dde42&channelid=eb8c718e-467c-4fa3-9bf7-71ae20dfcfa1&offerType=replace&productType=df9178b1-e48a-4361-8c1f-4cd73f7d9a3f",
+                "appendSlaveId": true
+            },
+            "isConnectButtonHidden": false,
+            "detailsPageUrl": "\/personal\/export\/mts-proshche",
+            "showTvChannelsListOnDetails": false,
+            "catalogFilterProperties": {
+                "internetPackageGb": 6,
+                "minutesPackage": 300
+            },
+            "multipleFeesForConfigurationOnly": false,
+            "id": 6195919,
+            "alias": "mts-proshche",
+            "title": "\u041c\u0422\u0421 \u041f\u0440\u043e\u0449\u0435!",
+            "description": "\u0411\u0430\u0437\u043e\u0432\u044b\u0439 \u0442\u0430\u0440\u0438\u0444 \u0441&nbsp;\u0441\u0430\u043c\u044b\u043c \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u044b\u043c",
+            "cardImageUrl": "\/\/static.mts.ru\/dpc_upload\/contents\/557\/catalog_card_bolshe_848\u0445200.jpg",
+            "priority": 25,
+            "subscriptionFee": {
+                "title": "\u041f\u043b\u0430\u0442\u0430 \u043f\u043e \u0442\u0430\u0440\u0438\u0444\u0443",
+                "value": "675 \u20bd\/\u043c\u0435\u0441",
+                "numValue": 675,
+                "displayUnit": "\u20bd\/\u043c\u0435\u0441",
+                "quotaUnit": "rub",
+                "quotaPeriod": "monthly",
+                "isUnlimited": false,
+                "numValueType": "Exact",
+                "sortOrder": 100,
+                "baseParameter": "SubscriptionFee"
+            },
+            "categoriesIds": [
+                2285447
+            ],
+            "detailsAlias": "mts-proshche",
+            "isActionButtonHidden": false,
+            "isDetailsButtonHidden": false,
+            "productInfoLink": {
+                "title": "\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u0435\u0435",
+                "value": "mymts:\/\/action\/screen?screen_id=f7507100-e7f7-eade-e445-09294099902c&tariff=mts-proshche&global_code=49b8670d-0fdf-42d5-a510-a770368dde42",
+                "appendSlaveId": true
+            },
+            "buttons": [
+                {
+                    "href": "mymts:\/\/action\/screen?screen_id=f7507100-e7f7-eade-e445-09294099902c&tariff=mts-proshche&global_code=49b8670d-0fdf-42d5-a510-a770368dde42",
+                    "text": "\u041f\u043e\u0434\u043a\u043b\u044e\u0447\u0438\u0442\u044c",
+                    "isSecondary": false,
+                    "isDisabled": false,
+                    "isHidden": false,
+                    "buttonType": "Connect"
+                },
+                {
+                    "href": "mymts:\/\/action\/screen?screen_id=f7507100-e7f7-eade-e445-09294099902c&tariff=mts-proshche&global_code=49b8670d-0fdf-42d5-a510-a770368dde42",
+                    "text": "\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u0435\u0435",
+                    "isSecondary": true,
+                    "isDisabled": false,
+                    "isHidden": false,
+                    "buttonType": "Details"
+                }
+            ],
+            "cardType": "Tariff"
+        },
+        {
+            "marketingId": 6391305,
+            "isPriorityProduct": false,
+            "categoryOrder": 2,
+            "allRegionalGlobalCodes": [
+                "21360.1.185243"
+            ],
+            "tariffType": "Mobile",
+            "useRequestConnectionForm": false,
+            "badges": [],
+            "productCharacteristics": [
+                {
+                    "id": 6400442,
+                    "value": "100 \u0413\u0411",
+                    "baseParameter": "InternetPackage"
+                },
+                {
+                    "id": 6400443,
+                    "value": "2000 \u043c\u0438\u043d\u0443\u0442",
+                    "baseParameter": "MinutesPackage"
+                },
+                {
+                    "id": 6400479,
+                    "value": "\u0411\u0435\u0437\u043b\u0438\u043c\u0438\u0442 \u043d\u0430 \u043d\u043e\u043c\u0435\u0440\u0430 \u041c\u0422\u0421 \u0420\u043e\u0441\u0441\u0438\u0438",
+                    "iconUrl": "\/\/static.mts.ru\/dpc_upload\/contents\/354\/icon_card_min.svg",
+                    "baseParameter": "MessagesPackage"
+                }
+            ],
+            "productFeatures": [],
+            "benefitsDescription": {
+                "icons": [
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/Bezlimit_32x32.svg",
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/icon_perenos.svg",
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/ic_card_kion.svg",
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/icon_4g.svg",
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/icon_card_3.svg"
+                ],
+                "description": "\u0411\u0435\u0437\u043b\u0438\u043c\u0438\u0442\u043d\u044b\u0435 \u0441\u043e\u0446\u0441\u0435\u0442\u0438, \u043c\u0435\u0441\u0441\u0435\u043d\u0434\u0436\u0435\u0440\u044b \u0438&nbsp;\u0432\u0438\u0434\u0435\u043e",
+                "lastItemAsMainBenefit": false
+            },
+            "isConnectButtonHidden": false,
+            "detailsPageUrl": "\/personal\/export\/mts-bolshe-vseh",
+            "showTvChannelsListOnDetails": false,
+            "catalogFilterProperties": {
+                "internetPackageGb": 100,
+                "minutesPackage": 2000
+            },
+            "multipleFeesForConfigurationOnly": false,
+            "id": 6400400,
+            "alias": "mts-bolshe-vseh",
+            "title": "\u041c\u0422\u0421 \u0411\u043e\u043b\u044c\u0448\u0435 \u0432\u0441\u0435\u0445",
+            "description": "\u0422\u0430\u0440\u0438\u0444 \u0441&nbsp;\u0431\u043e\u043b\u044c\u0448\u0438\u043c\u0438 \u043f\u0430\u043a\u0435\u0442\u0430\u043c\u0438 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442\u0430 \u0438&nbsp;\u043c\u0438\u043d\u0443\u0442",
+            "cardImageUrl": "\/\/static.mts.ru\/dpc_upload\/contents\/557\/banners_ultra_848_200_2.jpg",
+            "priority": 40,
+            "subscriptionFee": {
+                "title": "\u041f\u043b\u0430\u0442\u0430 \u043f\u043e \u0442\u0430\u0440\u0438\u0444\u0443",
+                "value": "1900 \u20bd\/\u043c\u0435\u0441",
+                "numValue": 1900,
+                "displayUnit": "\u20bd\/\u043c\u0435\u0441",
+                "quotaUnit": "rub",
+                "quotaPeriod": "monthly",
+                "isUnlimited": false,
+                "numValueType": "Exact",
+                "sortOrder": 100,
+                "baseParameter": "SubscriptionFee"
+            },
+            "categoriesIds": [
+                2285447
+            ],
+            "detailsAlias": "mts-bolshe-vseh",
+            "isActionButtonHidden": false,
+            "isDetailsButtonHidden": false,
+            "buttons": [
+                {
+                    "text": "\u041f\u043e\u0434\u043a\u043b\u044e\u0447\u0438\u0442\u044c",
+                    "isSecondary": false,
+                    "isDisabled": false,
+                    "isHidden": false,
+                    "buttonType": "Connect"
+                },
+                {
+                    "href": "\/personal\/export\/mts-bolshe-vseh",
+                    "text": "\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u0435\u0435",
+                    "isSecondary": true,
+                    "isDisabled": false,
+                    "isHidden": false,
+                    "buttonType": "Details"
+                }
+            ],
+            "cardType": "Tariff"
+        },
+        {
+            "marketingId": 5030096,
+            "isPriorityProduct": false,
+            "categoryOrder": 20,
+            "allRegionalGlobalCodes": [
+                "21152.2.185243"
+            ],
+            "tariffType": "Mobile",
+            "useRequestConnectionForm": false,
+            "badges": [],
+            "productCharacteristics": [
+                {
+                    "id": 5401008,
+                    "value": "60 \u0413\u0411",
+                    "baseParameter": "InternetPackage"
+                }
+            ],
+            "productFeatures": [],
+            "benefitsDescription": {
+                "icons": [
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/ic_card_kion.svg"
+                ],
+                "description": "\u0422\u044b\u0441\u044f\u0447\u0438 \u0444\u0438\u043b\u044c\u043c\u043e\u0432, \u0441\u0435\u0440\u0438\u0430\u043b\u043e\u0432, \u043c\u0443\u043b\u044c\u0442\u0444\u0438\u043b\u044c\u043c\u043e\u0432 \u0438&nbsp;\u0431\u043e\u043b\u0435\u0435 200&nbsp;\u043a\u0430\u043d\u0430\u043b\u043e\u0432",
+                "lastItemAsMainBenefit": false
+            },
+            "isConnectButtonHidden": false,
+            "detailsPageUrl": "\/personal\/export\/dlya_noutbuka_mini",
+            "showTvChannelsListOnDetails": false,
+            "catalogFilterProperties": {
+                "internetPackageGb": 60
+            },
+            "multipleFeesForConfigurationOnly": false,
+            "id": 5032333,
+            "alias": "dlya_noutbuka_mini",
+            "title": "\u0414\u043b\u044f \u043d\u043e\u0443\u0442\u0431\u0443\u043a\u0430 \u043c\u0438\u043d\u0438",
+            "description": "\u0411\u044b\u0441\u0442\u0440\u044b\u0439 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u0434\u043b\u044f \u0440\u0430\u0431\u043e\u0442\u044b \u0438&nbsp;\u0432\u0438\u0434\u0435\u043e\u0441\u043e\u0432\u0435\u0449\u0430\u043d\u0438\u0439",
+            "cardImageUrl": "\/\/static.mts.ru\/dpc_upload\/contents\/557\/catalog_card_dlya_noutbuka_848\u0445200.jpg",
+            "priority": 42,
+            "subscriptionFee": {
+                "title": "\u0410\u0431\u043e\u043d\u0435\u043d\u0442\u0441\u043a\u0430\u044f \u043f\u043b\u0430\u0442\u0430",
+                "value": "1050 \u20bd\/\u043c\u0435\u0441",
+                "numValue": 1050,
+                "displayUnit": "\u20bd\/\u043c\u0435\u0441",
+                "quotaUnit": "rub",
+                "quotaPeriod": "monthly",
+                "isUnlimited": false,
+                "numValueType": "Exact",
+                "sortOrder": 20,
+                "baseParameter": "SubscriptionFee"
+            },
+            "categoriesIds": [
+                2285448
+            ],
+            "detailsAlias": "dlya_noutbuka_mini",
+            "isActionButtonHidden": false,
+            "isDetailsButtonHidden": false,
+            "buttons": [
+                {
+                    "text": "\u041f\u043e\u0434\u043a\u043b\u044e\u0447\u0438\u0442\u044c",
+                    "isSecondary": false,
+                    "isDisabled": false,
+                    "isHidden": false,
+                    "buttonType": "Connect"
+                },
+                {
+                    "href": "\/personal\/export\/dlya_noutbuka_mini",
+                    "text": "\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u0435\u0435",
+                    "isSecondary": true,
+                    "isDisabled": false,
+                    "isHidden": false,
+                    "buttonType": "Details"
+                }
+            ],
+            "cardType": "Tariff"
+        },
+        {
+            "marketingId": 2216809,
+            "isPriorityProduct": false,
+            "categoryOrder": 20,
+            "allRegionalGlobalCodes": [
+                "2193.6.185243"
+            ],
+            "tariffType": "Mobile",
+            "useRequestConnectionForm": false,
+            "badges": [],
+            "productCharacteristics": [
+                {
+                    "id": 5392858,
+                    "value": "100 \u0413\u0411",
+                    "baseParameter": "InternetPackage"
+                }
+            ],
+            "productFeatures": [],
+            "benefitsDescription": {
+                "icons": [
+                    "\/\/static.mts.ru\/dpc_upload\/contents\/618\/ic_card_kion.svg"
+                ],
+                "description": "\u0422\u044b\u0441\u044f\u0447\u0438 \u0444\u0438\u043b\u044c\u043c\u043e\u0432, \u0441\u0435\u0440\u0438\u0430\u043b\u043e\u0432, \u043c\u0443\u043b\u044c\u0442\u0444\u0438\u043b\u044c\u043c\u043e\u0432 \u0438 \u0431\u043e\u043b\u0435\u0435 200 \u043a\u0430\u043d\u0430\u043b\u043e\u0432",
+                "lastItemAsMainBenefit": false
+            },
+            "isConnectButtonHidden": false,
+            "detailsPageUrl": "\/personal\/export\/dlya_noutbuka",
+            "showTvChannelsListOnDetails": false,
+            "catalogFilterProperties": {
+                "internetPackageGb": 100
+            },
+            "multipleFeesForConfigurationOnly": false,
+            "id": 2724041,
+            "alias": "dlya_noutbuka",
+            "title": "\u0414\u043b\u044f \u043d\u043e\u0443\u0442\u0431\u0443\u043a\u0430",
+            "description": "\u0411\u044b\u0441\u0442\u0440\u044b\u0439 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u0434\u043b\u044f \u043f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u0430 \u0444\u0438\u043b\u044c\u043c\u043e\u0432 \u0438&nbsp;\u0441\u0435\u0440\u0438\u0430\u043b\u043e\u0432",
+            "cardImageUrl": "\/\/static.mts.ru\/dpc_upload\/contents\/557\/catalog_card_dlya_noutbuka_848\u0445200.jpg",
+            "priority": 42,
+            "subscriptionFee": {
+                "title": "\u0410\u0431\u043e\u043d\u0435\u043d\u0442\u0441\u043a\u0430\u044f \u043f\u043b\u0430\u0442\u0430",
+                "value": "1290 \u20bd\/\u043c\u0435\u0441",
+                "numValue": 1290,
+                "displayUnit": "\u20bd\/\u043c\u0435\u0441",
+                "quotaUnit": "rub",
+                "quotaPeriod": "monthly",
+                "isUnlimited": false,
+                "numValueType": "Exact",
+                "sortOrder": 20,
+                "baseParameter": "SubscriptionFee"
+            },
+            "categoriesIds": [
+                2285448
+            ],
+            "detailsAlias": "dlya_noutbuka",
+            "isActionButtonHidden": false,
+            "isDetailsButtonHidden": false,
+            "buttons": [
+                {
+                    "text": "\u041f\u043e\u0434\u043a\u043b\u044e\u0447\u0438\u0442\u044c",
+                    "isSecondary": false,
+                    "isDisabled": false,
+                    "isHidden": false,
+                    "buttonType": "Connect"
+                },
+                {
+                    "href": "\/personal\/export\/dlya_noutbuka",
+                    "text": "\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u0435\u0435",
+                    "isSecondary": true,
+                    "isDisabled": false,
+                    "isHidden": false,
+                    "buttonType": "Details"
+                }
+            ],
+            "cardType": "Tariff"
+        },
+        {
+            "marketingId": 3322606,
+            "isPriorityProduct": false,
+            "categoryOrder": 20,
+            "allRegionalGlobalCodes": [
+                "2053.3.185243"
+            ],
+            "tariffType": "Mobile",
+            "useRequestConnectionForm": false,
+            "badges": [],
+            "productCharacteristics": [
+                {
+                    "id": 3961451,
+                    "value": "2 \u0413\u0411",
+                    "baseParameter": "InternetPackage"
+                },
+                {
+                    "id": 3323448,
+                    "value": "100 \u043c\u0438\u043d\u0443\u0442",
+                    "baseParameter": "MinutesPackage"
+                },
+                {
+                    "id": 3323446,
+                    "value": "100 SMS",
+                    "baseParameter": "MessagesPackage"
+                }
+            ],
+            "productFeatures": [],
+            "isConnectButtonHidden": false,
+            "detailsPageUrl": "\/personal\/export\/dlya_ustrojstv",
+            "showTvChannelsListOnDetails": false,
+            "catalogFilterProperties": {
+                "internetPackageGb": 2,
+                "minutesPackage": 100
+            },
+            "multipleFeesForConfigurationOnly": false,
+            "id": 3323439,
+            "alias": "dlya_ustrojstv",
+            "title": "\u0414\u043b\u044f \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432",
+            "description": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0430\u043b\u044c\u043d\u044b\u0439 \u0442\u0430\u0440\u0438\u0444 \u0434\u043b\u044f \u0443\u043c\u043d\u044b\u0445 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432",
+            "cardImageUrl": "\/\/static.mts.ru\/dpc_upload\/contents\/557\/dlyauctroyctv_848x200.jpg",
+            "priority": 200,
+            "subscriptionFee": {
+                "title": "\u0415\u0436\u0435\u043c\u0435\u0441\u044f\u0447\u043d\u0430\u044f \u043f\u043b\u0430\u0442\u0430",
+                "value": "250 \u20bd\/\u043c\u0435\u0441",
+                "numValue": 250,
+                "displayUnit": "\u20bd\/\u043c\u0435\u0441",
+                "quotaUnit": "rub",
+                "quotaPeriod": "monthly",
+                "isUnlimited": false,
+                "numValueType": "Exact",
+                "sortOrder": 30,
+                "baseParameter": "SubscriptionFee"
+            },
+            "categoriesIds": [
+                2285448
+            ],
+            "detailsAlias": "dlya_ustrojstv",
+            "isActionButtonHidden": false,
+            "isDetailsButtonHidden": false,
+            "buttons": [
+                {
+                    "text": "\u041f\u043e\u0434\u043a\u043b\u044e\u0447\u0438\u0442\u044c",
+                    "isSecondary": false,
+                    "isDisabled": false,
+                    "isHidden": false,
+                    "buttonType": "Connect"
+                },
+                {
+                    "href": "\/personal\/export\/dlya_ustrojstv",
+                    "text": "\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u0435\u0435",
+                    "isSecondary": true,
+                    "isDisabled": false,
+                    "isHidden": false,
+                    "buttonType": "Details"
+                }
+            ],
+            "cardType": "Tariff"
+        }
+    ],
+    "categoriesUsageContextId": 5820473,
+    "actualTariffsHeader": "\u042d\u043a\u0441\u043f\u043e\u0440\u0442 \u0442\u0430\u0440\u0438\u0444\u043e\u0432 (iframe-\u0432\u0435\u0440\u0441\u0438\u044f)",
+    "selectedCategoryTitleTemplate": "%category% | \u042d\u043a\u0441\u043f\u043e\u0440\u0442 \u0442\u0430\u0440\u0438\u0444\u043e\u0432 (iframe-\u0432\u0435\u0440\u0441\u0438\u044f) | \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u041c\u0422\u0421 - \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0440\u0435\u043b\u0438\u044f",
+    "unselectedCategoryTitleTemplate": "\u042d\u043a\u0441\u043f\u043e\u0440\u0442 \u0442\u0430\u0440\u0438\u0444\u043e\u0432 (iframe-\u0432\u0435\u0440\u0441\u0438\u044f) | \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u041c\u0422\u0421 - \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0440\u0435\u043b\u0438\u044f",
+    "defaultCity": {
+        "id": 2214205,
+        "alias": "petrozavodsk-city",
+        "isMainCity": true,
+        "title": "\u041f\u0435\u0442\u0440\u043e\u0437\u0430\u0432\u043e\u0434\u0441\u043a",
+        "titlePrepositional": "\u041f\u0435\u0442\u0440\u043e\u0437\u0430\u0432\u043e\u0434\u0441\u043a\u0435",
+        "regionType": "City",
+        "parent": {
+            "id": 19915,
+            "alias": "karelia",
+            "isMainCity": false,
+            "title": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0440\u0435\u043b\u0438\u044f"
+        },
+        "kladrCode": "1000000100000",
+        "homeServicesCity": {
+            "id": 2215552,
+            "cityId": 2214205,
+            "preferDvbCtv": true,
+            "latitude": "61.785017",
+            "longitude": "34.346878",
+            "usePortAccessFilter": false,
+            "useCheckFlat": true,
+            "useSimpleFormPopupForAllTariffs": false,
+            "useOverForDevicesPrice": false,
+            "ignoreCityStreetCheck": false,
+            "useDeferredPtv": false
+        }
+    },
+    "cities": [
+        {
+            "id": 2214205,
+            "alias": "petrozavodsk-city",
+            "isMainCity": true,
+            "title": "\u041f\u0435\u0442\u0440\u043e\u0437\u0430\u0432\u043e\u0434\u0441\u043a",
+            "titlePrepositional": "\u041f\u0435\u0442\u0440\u043e\u0437\u0430\u0432\u043e\u0434\u0441\u043a\u0435",
+            "regionType": "City",
+            "parent": {
+                "id": 19915,
+                "alias": "karelia",
+                "isMainCity": false,
+                "title": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0440\u0435\u043b\u0438\u044f"
+            },
+            "kladrCode": "1000000100000",
+            "homeServicesCity": {
+                "id": 2215552,
+                "cityId": 2214205,
+                "preferDvbCtv": true,
+                "latitude": "61.785017",
+                "longitude": "34.346878",
+                "usePortAccessFilter": false,
+                "useCheckFlat": true,
+                "useSimpleFormPopupForAllTariffs": false,
+                "useOverForDevicesPrice": false,
+                "ignoreCityStreetCheck": false,
+                "useDeferredPtv": false
+            }
+        }
+    ],
+    "popupFormSettings": {
+        "title": "\u0417\u0430\u044f\u0432\u043a\u0430 \u043d\u0430 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435",
+        "header": "\u0414\u043b\u044f \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f \u0443\u0441\u043b\u0443\u0433\u0438, \u043f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0437\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u0435 \u0444\u043e\u0440\u043c\u0443",
+        "success": "<p>\u0412 \u0431\u043b\u0438\u0436\u0430\u0439\u0448\u0435\u0435 \u0432\u0440\u0435\u043c\u044f \u043d\u0430\u0448 \u043e\u043f\u0435\u0440\u0430\u0442\u043e\u0440 \u0441\u0432\u044f\u0436\u0435\u0442\u0441\u044f \u0441 \u0412\u0430\u043c\u0438 \u0434\u043b\u044f \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0438\u044f \u0437\u0430\u044f\u0432\u043a\u0438 \u0438 \u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0432\u044b\u0445\u043e\u0434\u0430 \u043c\u0430\u0441\u0442\u0435\u0440\u0430.<br>\u041e\u0436\u0438\u0434\u0430\u0439\u0442\u0435 \u0437\u0432\u043e\u043d\u043a\u0430!<\/p>\n<p>\u0421\u043f\u0430\u0441\u0438\u0431\u043e, \u0447\u0442\u043e \u0432\u044b\u0431\u0440\u0430\u043b\u0438 \u041c\u0422\u0421!<\/p>",
+        "failure": "\u041f\u0440\u043e\u0438\u0437\u043e\u0448\u043b\u0430 \u043e\u0448\u0438\u0431\u043a\u0430. \u041f\u043e\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u043f\u043e\u0432\u0442\u043e\u0440\u0438\u0442\u044c \u043f\u043e\u0437\u0436\u0435.",
+        "duplicate": "<p>\u0412\u044b \u0443\u0436\u0435 \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u043b\u0438 \u0437\u0430\u044f\u0432\u043a\u0443 \u043d\u0430 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435.<br\/>\u041c\u044b \u043e\u0431\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u043e \u0441\u0432\u044f\u0436\u0435\u043c\u0441\u044f \u0441 \u0432\u0430\u043c\u0438 \u0432 \u0431\u043b\u0438\u0436\u0430\u0439\u0448\u0435\u0435 \u0432\u0440\u0435\u043c\u044f!<\/p>"
+    },
+    "textTemplates": {
+        "packagePageUrlTemplate": "\/personal\/dlya-doma\/tarifi\/tv-paket\/{alias}\/{city}",
+        "unselectedCategoryTitleTemplate": "\u042d\u043a\u0441\u043f\u043e\u0440\u0442 \u0442\u0430\u0440\u0438\u0444\u043e\u0432 (iframe-\u0432\u0435\u0440\u0441\u0438\u044f) | \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u041c\u0422\u0421 - \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0440\u0435\u043b\u0438\u044f",
+        "selectedCategoryTitleTemplate": "%category% | \u042d\u043a\u0441\u043f\u043e\u0440\u0442 \u0442\u0430\u0440\u0438\u0444\u043e\u0432 (iframe-\u0432\u0435\u0440\u0441\u0438\u044f) | \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u041c\u0422\u0421 - \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0440\u0435\u043b\u0438\u044f",
+        "archiveCatalogTitleTemplate": "\u0410\u0440\u0445\u0438\u0432\u043d\u044b\u0435 | \u042d\u043a\u0441\u043f\u043e\u0440\u0442 \u0442\u0430\u0440\u0438\u0444\u043e\u0432 (iframe-\u0432\u0435\u0440\u0441\u0438\u044f) | \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u041c\u0422\u0421 - \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0440\u0435\u043b\u0438\u044f"
+    },
+    "tariffsCountPerPageForDesktop": 9,
+    "tariffsCountPerPageForMobile": 5,
+    "tariffsPageUrl": "\/personal\/export",
+    "whatTariffUssdCommandHint": "<span class='b-number'><span class='b-number__symbol'>*<\/span>111<span class='b-number__symbol'>*<\/span>59<span class='b-number__symbol-sharp'>#<\/span><span class='b-number__symbol-call'><\/span><\/span>",
+    "iconsUrlsByType": {
+        "calls": "\/\/static.mts.ru\/mts_rf\/images\/content\/cards\/icon_card_min.svg",
+        "internet": "\/\/static.mts.ru\/mts_rf\/images\/content\/cards\/icon_card_gb.svg",
+        "tv": "\/\/static.mts.ru\/mts_rf\/images\/content\/cards\/icon_card_tv.svg",
+        "wifi": "\/\/static.mts.ru\/mts_rf\/images\/content\/cards\/icon_card_wifi.svg",
+        "sms": "\/\/static.mts.ru\/mts_rf\/images\/content\/cards\/icon_card_sms.svg"
+    },
+    "tariffUnavailableOnRegionMessage": "\u041f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 \u0442\u0430\u0440\u0438\u0444\u0430 \u043d\u0435\u0434\u043e\u0441\u0442\u0443\u043f\u043d\u043e",
+    "usePriorityProductsFiltration": true,
+    "archiveCatalogPageUrl": "\/personal\/mobilnaya-svyaz\/tarifi\/vse-tarifi\/archive-catalog",
+    "currentItemId": 1053337,
+    "productsFilter": {
+        "conditions": [
+            {
+                "id": 6084382,
+                "alias": "internet",
+                "title": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442",
+                "sortOrder": 10,
+                "filterOptionsChoiceType": "single-choice",
+                "filterOptionsContext": "internet",
+                "options": [
+                    {
+                        "id": 6084383,
+                        "title": "\u0414\u043e 10 \u0413\u0411",
+                        "description": "\u0427\u0442\u043e\u0431\u044b \u043e\u0441\u0442\u0430\u0432\u0430\u0442\u044c\u0441\u044f \u043d\u0430 \u0441\u0432\u044f\u0437\u0438 \u0441&nbsp;\u0431\u043b\u0438\u0437\u043a\u0438\u043c\u0438 \u0438&nbsp;\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u043a\u0430\u0440\u0442\u0430\u043c\u0438",
+                        "sortOrder": 10,
+                        "range": {
+                            "to": 10
+                        }
+                    },
+                    {
+                        "id": 6084384,
+                        "title": "10-35 \u0413\u0411",
+                        "description": "\u0425\u0432\u0430\u0442\u0438\u0442 \u043f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0441\u0435\u0437\u043e\u043d \u0441\u0435\u0440\u0438\u0430\u043b\u0430 \u0446\u0435\u043b\u0438\u043a\u043e\u043c \u0438&nbsp;\u043e\u0431\u0441\u0443\u0434\u0438\u0442\u044c \u0432 \u0441\u043e\u0446\u0441\u0435\u0442\u044f\u0445",
+                        "sortOrder": 20,
+                        "range": {
+                            "from": 10,
+                            "to": 30
+                        }
+                    },
+                    {
+                        "id": 6084385,
+                        "title": "35+ \u0413\u0411",
+                        "description": "\u041d\u0430 \u043b\u044e\u0431\u044b\u0435 \u0440\u0430\u0437\u0432\u043b\u0435\u0447\u0435\u043d\u0438\u044f \u2014 \u0438\u0433\u0440\u0430\u0439\u0442\u0435 \u0432&nbsp;\u043e\u043d\u043b\u0430\u0439\u043d-\u0438\u0433\u0440\u044b, \u0441\u043c\u043e\u0442\u0440\u0438\u0442\u0435&nbsp;\u0432\u0438\u0434\u0435\u043e \u0438 \u043e\u0431\u0449\u0430\u0439\u0442\u0435\u0441\u044c",
+                        "sortOrder": 30,
+                        "range": {
+                            "from": 31
+                        }
+                    }
+                ],
+                "resetConditions": [
+                    6094754
+                ]
+            },
+            {
+                "id": 6084396,
+                "alias": "minutes",
+                "title": "\u0417\u0432\u043e\u043d\u043a\u0438",
+                "sortOrder": 20,
+                "filterOptionsChoiceType": "single-choice",
+                "filterOptionsContext": "calls",
+                "options": [
+                    {
+                        "id": 6084397,
+                        "title": "\u0414\u043e 250 \u043c\u0438\u043d\u0443\u0442",
+                        "sortOrder": 10,
+                        "range": {
+                            "to": 250
+                        }
+                    },
+                    {
+                        "id": 6084398,
+                        "title": "300\u20131 000 \u043c\u0438\u043d\u0443\u0442",
+                        "sortOrder": 20,
+                        "range": {
+                            "from": 300,
+                            "to": 1000
+                        }
+                    },
+                    {
+                        "id": 6084399,
+                        "title": "1 000\u20132 000 \u043c\u0438\u043d\u0443\u0442",
+                        "sortOrder": 30,
+                        "range": {
+                            "from": 1000,
+                            "to": 2000
+                        }
+                    },
+                    {
+                        "id": 6084400,
+                        "title": "2 000+ \u043c\u0438\u043d\u0443\u0442",
+                        "sortOrder": 40,
+                        "range": {
+                            "from": 2001
+                        }
+                    }
+                ],
+                "featureOptions": [
+                    {
+                        "id": 6098299,
+                        "title": "\u0412\u044b\u0433\u043e\u0434\u043d\u044b\u0435 \u043c\u0435\u0436\u0434\u0443\u0433\u043e\u0440\u043e\u0434\u043d\u0438\u0435",
+                        "sortOrder": 100,
+                        "value": "BestIntercityCallsOffer"
+                    }
+                ],
+                "resetConditions": [
+                    6094754
+                ]
+            },
+            {
+                "id": 6094753,
+                "alias": "GroupForClosest",
+                "title": "\u0414\u043b\u044f \u0441\u0435\u043c\u044c\u0438",
+                "sortOrder": 30,
+                "filterOptionsChoiceType": "single-value",
+                "filterOptionsContext": "feature",
+                "resetConditions": [
+                    6094754
+                ]
+            }
+        ],
+        "applyToCategories": [
+            {
+                "id": 2285447,
+                "alias": "dla-smartfona"
+            }
+        ],
+        "notFoundResultSettings": {
+            "title": "\u041d\u0435\u0442 \u043f\u043e\u0434\u0445\u043e\u0434\u044f\u0449\u0438\u0445 \u0442\u0430\u0440\u0438\u0444\u043e\u0432",
+            "description": "\u041f\u043e\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u0434\u0440\u0443\u0433\u0438\u0435 \u0444\u0438\u043b\u044c\u0442\u0440\u044b \u0438\u043b\u0438 <a href=\"\/\/mts.ru\/personal\/mobilnaya-svyaz\/uslugi\/mobilnaya-svyaz\/cubes\">\u041a\u0443\u0431\u0438\u043a\u0438<\/a> \u2014 \u044d\u0442\u043e \u0443\u0441\u043b\u0443\u0433\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043f\u043e\u043c\u043e\u0433\u0443\u0442 \u043d\u0430\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u0442\u0430\u0440\u0438\u0444 \u043f\u043e\u0434 \u0441\u0435\u0431\u044f",
+            "imageUrl": "\/\/static.mts.ru\/dpc_upload\/contents\/692\/not-found-result-icon.svg"
+        }
+    },
+    "viewSettings": {
+        "categoriesMenuRenderStyle": "Default",
+        "isArchivePageButtonHidden": false,
+        "isServicePageButtonHidden": false,
+        "hideCitySelector": false
+    }
+}
